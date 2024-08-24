@@ -5,3 +5,6 @@ body{
 .dropdown-content{
     margin-left: -150px;
 }
+.discuss{
+    background-image: url(images/bg.jpg);
+}
